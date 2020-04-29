@@ -129,7 +129,7 @@ img {vertical-align: middle;}
 <i class="fa fa-facebook-official" style="font-size:24px"></i>
 <i class="fa fa-linkedin-square" style="font-size:24px"></i>
 <i class="fa fa-twitter-square" style="font-size:24px"></i>
-<p>Design by: <a href=https://www.facebook.com/profile.php?id=100005365575003&ref=bookmarks>Minh Vu</a>.</p>
+<p>Design by: <a href=https://www.facebook.com/profile.php?id=100006199368786>Minh Vu</a>.</p>
 
      
 </html>
